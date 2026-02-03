@@ -15,10 +15,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📈 Estatísticas do GitHub
-
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvchagas&show_icons=true&theme=radical)
-
 ## 📫 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-vasques-chagas)
