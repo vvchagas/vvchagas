@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou Victor Vasques Chagas!
 
 🎓 **Graduando em Análise e Desenvolvimento de Sistemas** 3º termo - UNIMAR  
-💻 **Desenvolvedor Front-End** em formação  
-🎨 **Foco em:** HTML5, CSS3, JavaScript 
+💻 **Desenvolvedor Front-End** em formação   
 
 ## 🛠️ Tech Stack
 
