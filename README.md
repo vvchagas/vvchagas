@@ -138,7 +138,7 @@ com regras
 ## `> OBJETIVOS_ATUAIS.log`
 
 ```bash
-victor@dev:~$ cat objetivos.txt
+vvchagas: objetivos.txt
 
 [✓] Dominar Nuxt 4 + arquitetura full stack
 [✓] Construir sistemas com autenticação e painéis admin reais
@@ -146,34 +146,16 @@ victor@dev:~$ cat objetivos.txt
 [✓] Expandir portfólio com projetos de clientes reais
 [✓] Explorar arquiteturas escaláveis para produtos SaaS
 
-victor@dev:~$ _
 ```
-
-<br/>
-
-## `> GITHUB_ANALYTICS.dashboard`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vvchagas&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00ffea&icon_color=00ffea&text_color=c9d1d9&border_color=00ffea&hide_border=false" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vvchagas&theme=tokyonight&background=0d1117&border=00ffea&stroke=00ffea&ring=00ffea&fire=00ffea&currStreakLabel=00ffea&hide_border=false" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvchagas&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00ffea&text_color=c9d1d9&border_color=00ffea&hide_border=false" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vvchagas&theme=tokyo-night&bg_color=0d1117&color=00ffea&line=00ffea&point=ffffff&area=true&hide_border=true" width="98%"/>
-
-</div>
-
 <br/>
 
 ## `> CONEXOES.network`
 
 <div align="center">
 
+<a href="https://wa.me/5514997760049" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
 <a href="https://github.com/vvchagas" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
