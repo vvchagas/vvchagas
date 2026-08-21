@@ -21,7 +21,7 @@ const victor = {
   role: "Full Stack Web Developer",
   base: "Brasil",
   foco: ["Aplicações Web", "Sistemas Full Stack", "UI/UX moderno"],
-  stack_favorita: "Vue 3 + Nuxt + TypeScript + Prisma",
+  stack_favorita: "Vue 3 + Nuxt + TypeScript + Prisma","PostegreSQL"
   missao: "Construir produtos digitais limpos, rápidos e escaláveis",
   modo: "sempre_aprendendo(true)"
 };
@@ -92,10 +92,10 @@ Desenvolvedor freelancer focado em aplicações **full stack** modernas — do f
 
 ### 🛰️ VVCHAGAS Portfolio
 Site de portfólio e serviços pessoal.
-Nuxt 4 + Vue 3 + Tailwind + Prisma + Neon PostgreSQL.
+Nuxt 4 + Vue 3 + TailwindCSS + Prisma + Neon PostgreSQL.
 Painel de mensagens, i18n PT/EN, animações GSAP.
 
-`Nuxt` `Prisma` `PostgreSQL` `Tailwind`
+`Nuxt` `Prisma` `PostgreSQL` `TailwindCSS` `Vue.js`
 
 </td>
 <td width="50%">
