@@ -113,12 +113,11 @@ em atendimento de emergências mais comunicativo
 <tr>
 <td width="50%">
 
-### 🛒 E-commerce + ERP
-Integração com Nuvemshop como fonte de dados.
-Node.js + Fastify + Prisma + Vue 3.
-Frontend customizado com UX diferenciada.
+### ✂️ NAVALHA & CORTE — ERP & Agendamento
 
-`Fastify` `Prisma` `Vue 3` `Nuvemshop API`
+Sistema completo de gestão (ERP) e agendamento online para barbearias, com frente de caixa (PDV), assinaturas VIP, notificações em tempo real, acessibilidade universal e persistência em banco de dados relacional.
+
+`PostegreSQL` `Prisma` `Vue 3` `NUXT.js` `Typescript`
 
 </td>
 <td width="50%">
